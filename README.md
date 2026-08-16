@@ -102,14 +102,40 @@ LLM-based recommendation system for personalized nutrition planning.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
+  <img
+    src="./profile-summary-card-output/tokyonight/0-profile-details.svg"
+    alt="Ruba's GitHub profile details"
+    width="95%"
+  />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rubabijad&show_icons=true&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img
+    src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg"
+    alt="Repositories per language"
+    width="47%"
+  />
+  <img
+    src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg"
+    alt="Most committed languages"
+    width="47%"
+  />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubabijad&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+  <img
+    src="./profile-summary-card-output/tokyonight/3-stats.svg"
+    alt="GitHub statistics"
+    width="47%"
+  />
+  <img
+    src="./profile-summary-card-output/tokyonight/4-productive-time.svg"
+    alt="Productive time"
+    width="47%"
+  />
 </p>
 
 ---
