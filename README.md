@@ -1,10 +1,13 @@
 # Hi, I'm Ruba 👋
+
 -------------------------------------------------
+
 RUBA BIJAD
 
 AI Engineer
 
 Generative AI • LLMs • Voice AI
+
 -------------------------------------------------
 
 ## Artificial Intelligence Engineer
