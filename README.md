@@ -5,7 +5,7 @@ AI Engineer | Generative AI | LLMs | Voice AI
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450"/>
+  <img src="[https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXk5djJnNGlwMm4zN2Vzbm1hZjZkcDkyaDIyZThjeDZ4bTU1cTM4eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif)" width="450"/>
 </p>
 
 <p align="center">
