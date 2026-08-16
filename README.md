@@ -1,144 +1,99 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Ruba Bijad Alqahtani</h1>
 
-# 🎮 PLAYER PROFILE LOADED...
+<h3 align="center">
+AI Engineer | Generative AI | LLMs | Voice AI
+</h3>
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450"/>
+</p>
 
-# 👋 Hi, I'm Ruba Bijad Alqahtani
-
-### ⚔ AI Engineer | Generative AI | LLMs | Voice AI
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+AI+Solutions.;Generative+AI+%7C+LLMs+%7C+Voice+AI.;Always+Learning+Something+New+🚀" />
-
-</div>
-
----
-
-# 🎯 Mission
-
-```console
-> booting profile...
-
-████████████████████████ 100%
-
-Loading AI Models...
-Loading LLMs...
-Loading Voice AI...
-Loading Python...
-Loading FastAPI...
-Loading Docker...
-
-✔ System Ready
-
-Welcome, Ruba 👋
-```
-
-🎓 Fresh Graduate in Artificial Intelligence with **First-Class Honors (GPA 4.85/5.0)**.
-
-I enjoy building intelligent AI systems and continuously learning new technologies in **Generative AI, Large Language Models, Voice AI, Machine Learning, and NLP**.
+<p align="center">
+Fresh Graduate in Artificial Intelligence with First-Class Honors (GPA 4.85/5.0). Passionate about building intelligent systems using Generative AI, Large Language Models, and Voice AI technologies.
+</p>
 
 ---
 
-# 🧠 Skill Tree
+## 🚀 About Me
 
-```
-🤖 Generative AI          ██████████████ 95%
-
-🧠 Large Language Models  ██████████████ 95%
-
-🎙 Voice AI               █████████████░ 90%
-
-📚 Retrieval-Augmented Generation
-                         ████████████░░ 85%
-
-💬 Prompt Engineering     ██████████████ 95%
-
-📝 NLP                    ████████████░░ 88%
-
-👁 Computer Vision        ██████████░░░░ 75%
-
-📈 Machine Learning       ████████████░░ 88%
-```
+- 🎓 B.Sc. in Artificial Intelligence – Princess Nourah bint Abdulrahman University
+- 🏆 First-Class Honors (GPA: **4.85/5.0**)
+- 💡 Interested in **Generative AI, LLMs, Voice AI, NLP, and Machine Learning**
+- 🛠 Hands-on experience contributing to **production-oriented AI systems**
+- 🌱 Currently learning **AI Agents, Multi-Agent Systems, and Advanced LLM Evaluation**
 
 ---
 
-# 🎒 Inventory
+## 🧠 Areas of Interest
 
-### 💻 Languages
-
-![Python](https://skillicons.dev/icons?i=python,java,mysql)
-
-### ⚙ Frameworks
-
-![My Skills](https://skillicons.dev/icons?i=fastapi,flask,pytorch,tensorflow)
-
-### 🛠 Tools
-
-![My Skills](https://skillicons.dev/icons?i=docker,git,linux,vscode)
+- 🤖 Large Language Models (LLMs)
+- ✨ Generative AI
+- 🧩 Prompt Engineering
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🎙 Voice AI
+- 🔊 Speech-to-Speech Systems
+- 📝 Natural Language Processing (NLP)
+- 👁 Computer Vision
+- 📊 Machine Learning & Deep Learning
 
 ---
 
-# 🗺 Current Quests
+## 🛠 Tech Stack
 
-✅ Learn Advanced AI Agents
+### Languages
 
-✅ Build Production AI Systems
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 
-✅ Improve LLM Evaluation
+### AI & ML
 
-⬜ Multi-Agent Systems
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-0052CC?style=for-the-badge)
 
-⬜ AI System Design
+### Backend & Infrastructure
 
----
-
-# 🏆 Achievements
-
-🥇 First-Class Honors
-
-🎓 Bachelor of Artificial Intelligence
-
-🏅 CAPM
-
-🏅 HCIA Deep Learning
-
-🏅 CCNA
-
-🏅 IBM AI Fundamentals
-
-🏅 Google Generative AI
-
-🏅 SDAIA LLM Bootcamp
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-# ⚔ Featured Projects
+## 📂 Featured Projects
 
-🧠 **Nabbah**
+🟢 **Nabbah**  
+AI-powered complaint classification and routing system using NLP and Saudi dialect processing.
 
-AI complaint classification using NLP and Saudi dialect processing.
+🟢 **LLM Guardrail**  
+Prompt engineering and evaluation for improving LLM safety and response quality.
 
----
+🟢 **Sign Language Detector**  
+Computer vision system for hand gesture recognition using LSTM and Random Forest.
 
-🤟 **Sign Language Detector**
-
-Hand gesture recognition using LSTM & Random Forest.
-
----
-
-🥗 **Personalized Diet Plan**
-
-LLM-powered recommendation system.
+🟢 **Personalized Diet Plan**  
+LLM-based recommendation system for personalized nutrition planning.
 
 ---
 
-🛡 **LLM Guardrail**
+## 📜 Certifications
 
-Prompt engineering and LLM evaluation.
+- CAPM – Project Management Institute (PMI)
+- HCIA Deep Learning – Huawei
+- CCNA – Cisco
+- IBM Artificial Intelligence Fundamentals
+- Explainable Machine Learning – Duke University
+- Google Introduction to Generative AI
+- SDAIA LLMs Bootcamp
 
 ---
 
-# 📊 Character Stats
+## 📈 GitHub Stats
 
 <p align="center">
 
@@ -150,52 +105,24 @@ Prompt engineering and LLM evaluation.
 
 ---
 
-# 📈 XP Progress
+## 🤝 Let's Connect
 
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rubabijad&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🌍 Connect With Me
-
-<p align="center">
+<p align="left">
 
 <a href="https://www.linkedin.com/in/ruba-alqhatani">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:rubarbj7@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-<div align="center">
-
-## 🎮 Game Status
-
-```
-Player: Ruba Bijad Alqahtani
-
-Class:
-AI Engineer
-
-Level:
-24
-
-Current Mission:
-Build impactful AI solutions 🚀
-
-Status:
-██████████████ ONLINE
-```
+<p align="center">
 
 ⭐ Thanks for visiting my profile!
 
-</div>
+</p>
