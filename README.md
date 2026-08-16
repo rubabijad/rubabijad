@@ -2,7 +2,7 @@
 
 ## Artificial Intelligence Engineer
 
-Fresh Graduate in Artificial Intelligence with First-Class Honors (GPA 4.85/5.0).
+Fresh Graduate in Artificial Intelligence.
 
 I have hands-on experience developing and evaluating production-oriented AI solutions, with a strong interest in Generative AI, Large Language Models (LLMs), Voice AI, and Machine Learning. I enjoy building intelligent systems that solve real-world problems and continuously expanding my expertise in modern AI technologies.
 
