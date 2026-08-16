@@ -1,3 +1,15 @@
+<h1 align="center">
+👋 Welcome to My AI Lab
+</h1>
+
+<h2 align="center">
+I'm Ruba Bijad Alqahtani
+</h2>
+
+<h3 align="center">
+🤖 AI Engineer • Generative AI • LLMs • Voice AI
+</h3>
+
 <h1 align="center">Hi 👋, I'm Ruba Bijad Alqahtani</h1>
 
 <h3 align="center">
