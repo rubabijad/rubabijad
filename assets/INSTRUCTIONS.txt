@@ -1,0 +1,19 @@
+How to add the animation to your GitHub profile
+
+1. In the rubabijad/rubabijad repository, create a folder named:
+   assets
+
+2. Upload this file into it:
+   ruba-snake.gif
+
+3. Edit README.md and paste:
+
+## 🐍 Ruba Snake Animation
+
+<p align="center">
+  <img src="./assets/ruba-snake.gif" alt="Snake eating RUBA" width="100%" />
+</p>
+
+4. Commit the changes.
+
+This custom GIF is independent from the normal contribution-snake workflow.
