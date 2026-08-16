@@ -14,7 +14,10 @@ Fresh Graduate in Artificial Intelligence with First-Class Honors (GPA 4.85/5.0)
 </p>
 
 ---
-
+<p align="center">
+  <<<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Loading+AI+Models...;Building+Generative+AI+Solutions...;Optimizing+Voice+AI...;Always+Learning+🚀" />
+" width="450"/>
+</p>
 ## 🚀 About Me
 
 - 🎓 B.Sc. in Artificial Intelligence – Princess Nourah bint Abdulrahman University
