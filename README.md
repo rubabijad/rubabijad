@@ -5,24 +5,24 @@ AI Engineer | Generative AI | LLMs | Voice AI
 </h3>
 
 <p align="center">
-  <<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXk5djJnNGlwMm4zN2Vzbm1hZjZkcDkyaDIyZThjeDZ4bTU1cTM4eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="450"/>
-" width="450"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXk5djJnNGlwMm4zN2Vzbm1hZjZkcDkyaDIyZThjeDZ4bTU1cTM4eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="450"/>
 </p>
 
 <p align="center">
-Fresh Graduate in Artificial Intelligence with First-Class Honors (GPA 4.85/5.0). Passionate about building intelligent systems using Generative AI, Large Language Models, and Voice AI technologies.
+Fresh Graduate in Artificial Intelligence with First-Class Honors (GPA <b>4.85/5.0</b>). Passionate about building intelligent systems using <b>Generative AI</b>, <b>Large Language Models (LLMs)</b>, and <b>Voice AI</b>.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Loading+AI+Models...;Building+Generative+AI+Solutions...;Optimizing+Voice+AI...;Always+Learning+🚀" />
 </p>
 
 ---
-<p align="center">
-  <<<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Loading+AI+Models...;Building+Generative+AI+Solutions...;Optimizing+Voice+AI...;Always+Learning+🚀" />
-" width="450"/>
-</p>
+
 ## 🚀 About Me
 
-- 🎓 B.Sc. in Artificial Intelligence – Princess Nourah bint Abdulrahman University
-- 🏆 First-Class Honors (GPA: **4.85/5.0**)
-- 💡 Interested in **Generative AI, LLMs, Voice AI, NLP, and Machine Learning**
+- 🎓 **B.Sc. in Artificial Intelligence** – Princess Nourah bint Abdulrahman University
+- 🏆 **First-Class Honors** (GPA: **4.85/5.0**)
+- 🤖 Passionate about **Generative AI, LLMs, Voice AI, NLP, and Machine Learning**
 - 🛠 Hands-on experience contributing to **production-oriented AI systems**
 - 🌱 Currently learning **AI Agents, Multi-Agent Systems, and Advanced LLM Evaluation**
 
