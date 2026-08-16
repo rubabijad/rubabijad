@@ -1,15 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Ruba Bijad Alqahtani</h1>
-🐍 Contribution Snake
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/rubabijad/rubabijad/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/rubabijad/rubabijad/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake"
-         src="https://raw.githubusercontent.com/rubabijad/rubabijad/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="./assets/ruba-snake.gif" alt="Snake eating RUBA" width="100%" />
 </p>
 
 <h3 align="center">
