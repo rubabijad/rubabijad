@@ -1,92 +1,128 @@
-# Hi, I'm Ruba 👋
+<h1 align="center">Hi 👋, I'm Ruba Bijad Alqahtani</h1>
 
--------------------------------------------------
+<h3 align="center">
+AI Engineer | Generative AI | LLMs | Voice AI
+</h3>
 
-RUBA BIJAD
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450"/>
+</p>
 
-AI Engineer
-
-Generative AI • LLMs • Voice AI
-
--------------------------------------------------
-
-## Artificial Intelligence Engineer
-
-Fresh Graduate in Artificial Intelligence.
-
-I have hands-on experience developing and evaluating production-oriented AI solutions, with a strong interest in Generative AI, Large Language Models (LLMs), Voice AI, and Machine Learning. I enjoy building intelligent systems that solve real-world problems and continuously expanding my expertise in modern AI technologies.
+<p align="center">
+Fresh Graduate in Artificial Intelligence with First-Class Honors (GPA 4.85/5.0). Passionate about building intelligent systems using Generative AI, Large Language Models, and Voice AI technologies.
+</p>
 
 ---
 
-## 🚀 Interests
+## 🚀 About Me
+
+- 🎓 B.Sc. in Artificial Intelligence – Princess Nourah bint Abdulrahman University
+- 🏆 First-Class Honors (GPA: **4.85/5.0**)
+- 💡 Interested in **Generative AI, LLMs, Voice AI, NLP, and Machine Learning**
+- 🛠 Hands-on experience contributing to **production-oriented AI systems**
+- 🌱 Currently learning **AI Agents, Multi-Agent Systems, and Advanced LLM Evaluation**
+
+---
+
+## 🧠 Areas of Interest
 
 - 🤖 Large Language Models (LLMs)
-- 💬 Generative AI
-- 🧠 Prompt Engineering
-- 🔎 Retrieval-Augmented Generation (RAG)
-- 🎙️ Voice AI
+- ✨ Generative AI
+- 🧩 Prompt Engineering
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🎙 Voice AI
 - 🔊 Speech-to-Speech Systems
 - 📝 Natural Language Processing (NLP)
-- 👁️ Computer Vision
+- 👁 Computer Vision
 - 📊 Machine Learning & Deep Learning
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
-Python • Java • SQL • MATLAB
 
-### AI & Machine Learning
-PyTorch • TensorFlow • Scikit-learn • Transformers • NLP • Computer Vision
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Backend
-FastAPI • Flask • REST APIs
+### AI & ML
 
-### Infrastructure
-Docker • Git • Linux • Triton Inference Server
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-0052CC?style=for-the-badge)
+
+### Backend & Infrastructure
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ## 📂 Featured Projects
 
-### 📝 Nabbah
+🟢 **Nabbah**  
 AI-powered complaint classification and routing system using NLP and Saudi dialect processing.
 
-### 🤟 Sign Language Detector
-Hand gesture recognition system using LSTM and Random Forest.
+🟢 **LLM Guardrail**  
+Prompt engineering and evaluation for improving LLM safety and response quality.
 
-### 🥗 Personalized Diet Plan
-LLM-based AI system for personalized diet recommendations.
+🟢 **Sign Language Detector**  
+Computer vision system for hand gesture recognition using LSTM and Random Forest.
 
-### 📈 Business Profit Prediction
-Machine Learning models for business profit forecasting.
+🟢 **Personalized Diet Plan**  
+LLM-based recommendation system for personalized nutrition planning.
 
 ---
 
 ## 📜 Certifications
 
-- CAPM – PMI
+- CAPM – Project Management Institute (PMI)
 - HCIA Deep Learning – Huawei
 - CCNA – Cisco
-- IBM AI Fundamentals
-- Explainable Machine Learning (Duke University)
-- Google Generative AI
+- IBM Artificial Intelligence Fundamentals
+- Explainable Machine Learning – Duke University
+- Google Introduction to Generative AI
 - SDAIA LLMs Bootcamp
 
 ---
 
-## 🌱 Currently Learning
+## 📈 GitHub Stats
 
-- AI Agents
-- Advanced LLM Evaluation
-- Multi-Agent Systems
-- AI System Design
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rubabijad&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubabijad&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-## 📫 Connect with Me
+## 🤝 Let's Connect
 
-📧 Email: **rubarbj7@gmail.com**
+<p align="left">
 
-💼 LinkedIn: **linkedin.com/in/ruba-alqhatani**
+<a href="https://www.linkedin.com/in/ruba-alqhatani">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rubarbj7@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+</p>
