@@ -14,11 +14,10 @@ AI Engineer | Generative AI | LLMs | Voice AI
 </p>
 
 <p align="center">
-Fresh Graduate in Artificial Intelligence with First-Class Honors (GPA <b>4.85/5.0</b>). Passionate about building intelligent systems using <b>Generative AI</b>, <b>Large Language Models (LLMs)</b>, and <b>Voice AI</b>.
+Fresh Graduate in Artificial Intelligence with Passionate about building intelligent systems using <b>Generative AI</b>, <b>Large Language Models (LLMs)</b>, and <b>Voice AI</b>.
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Loading+AI+Models...;Building+Generative+AI+Solutions...;Optimizing+Voice+AI...;Always+Learning+🚀" />
+font=JetBrains+Mono&weight=700&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Loading+AI+Models...;Building+Generative+AI+Solutions...;Optimizing+Voice+AI...;Always+Learning+🚀" />
 </p>
 
 ---
@@ -26,7 +25,6 @@ Fresh Graduate in Artificial Intelligence with First-Class Honors (GPA <b>4.85/5
 ## 🚀 About Me
 
 - 🎓 **B.Sc. in Artificial Intelligence** – Princess Nourah bint Abdulrahman University
-- 🏆 **First-Class Honors** (GPA: **4.85/5.0**)
 - 🤖 Passionate about **Generative AI, LLMs, Voice AI, NLP, and Machine Learning**
 - 🛠 Hands-on experience contributing to **production-oriented AI systems**
 - 🌱 Currently learning **AI Agents, Multi-Agent Systems, and Advanced LLM Evaluation**
