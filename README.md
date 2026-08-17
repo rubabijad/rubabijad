@@ -13,11 +13,21 @@ AI Engineer | Generative AI | LLMs | Voice AI
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXk5djJnNGlwMm4zN2Vzbm1hZjZkcDkyaDIyZThjeDZ4bTU1cTM4eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="450"/>
 </p>
 
+<h3 align="center">Artificial Intelligence Engineer</h3>
+
 <p align="center">
-Fresh Graduate in Artificial Intelligence with Passionate about building intelligent systems using <b>Generative AI</b>, <b>Large Language Models (LLMs)</b>, and <b>Voice AI</b>.
+Fresh Graduate in Artificial Intelligence with 
+Passionate about building production-ready <b>Generative AI</b>, <b>Large Language Models (LLMs)</b>, <b>Voice AI</b>, and <b>Retrieval-Augmented Generation (RAG)</b> applications.
+Focused on developing scalable AI systems, optimizing inference performance, and delivering real-world AI solutions.
 </p>
 
-font=JetBrains+Mono&weight=700&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Loading+AI+Models...;Building+Generative+AI+Solutions...;Optimizing+Voice+AI...;Always+Learning+🚀" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Voice_AI-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-F97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
